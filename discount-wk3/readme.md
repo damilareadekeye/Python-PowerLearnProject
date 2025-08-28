@@ -1,6 +1,3 @@
-Of course, here is a professional README.md file tailored for your project.
-
----
 
 # Discount Calculator - Python PowerLearn Project (Week 3)
 
