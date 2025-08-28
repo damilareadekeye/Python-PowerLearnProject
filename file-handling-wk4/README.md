@@ -16,3 +16,8 @@ This directory contains the solution for the week 4 assignment on file handling 
 3.  When prompted, enter the name of the file to read (e.g., `original.txt`).
 4.  The script will read the content, convert it to uppercase, and save it in `modified.txt`.
 5.  If you enter a filename that does not exist, the script will handle the error gracefully.
+
+## Author
+
+**Damilare Lekan Adekeye**  
+Portfolio: https://damilareadekeye.com

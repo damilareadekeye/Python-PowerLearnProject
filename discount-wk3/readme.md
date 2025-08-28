@@ -58,8 +58,5 @@ Python-PowerLearnProject/
 
 ## Author
 
-This project was created by Damilare Adekeye.
-
-*   **GitHub:** [github.com/damilareadekeye](https://github.com/damilareadekeye/)
-*   **Portfolio:** [damilareadekeye.com](http://damilareadekeye.com)
-*   **Project Repository:** [github.com/damilareadekeye/Python-PowerLearnProject](https://github.com/damilareadekeye/Python-PowerLearnProject)
+**Damilare Lekan Adekeye**  
+Portfolio: https://damilareadekeye.com

@@ -127,5 +127,4 @@ git remote -v
 ## Author
 
 **Damilare Lekan Adekeye**  
-Email: damilare@damilareadekeye.com  
 Portfolio: https://damilareadekeye.com
